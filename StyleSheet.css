@@ -1,0 +1,28 @@
+#form{
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 30px;
+}
+
+#form > input{
+  width: 200px;
+  height: 25px;
+}
+
+#result{
+  background-color: aquamarine;
+  width: 80%;
+  height: 80%;
+}
+
+.container{
+  width: 100%;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
