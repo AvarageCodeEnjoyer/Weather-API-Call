@@ -13,9 +13,11 @@
 }
 
 #result{
-  background-color: aquamarine;
+  background-color: rgb(54, 57, 56);
   width: 80%;
   height: 80%;
+  color: aliceblue;
+  font-size: 20px;
 }
 
 .container{
